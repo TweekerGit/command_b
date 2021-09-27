@@ -7,3 +7,4 @@ Manilo {'work': 'game-dev'}
 Рубан {'work': 'привет'}
 Кульчицький {'work': 'молодец'}
 kulba{'work': 'ахахахахаахаха'}
+Shylo {'work': 'writer-translator'}
