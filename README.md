@@ -6,3 +6,4 @@ Manilo {'work': 'game-dev'}
 Ярощук {'work': 'TikTok'}
 Рубан {'work': 'привет'}
 Кульчицький {'work': 'молодец'}
+kulba{'work': 'ахахахахаахаха'}
